@@ -1,3 +1,3 @@
-This repository contains all the Projects needed to complete the certificate for Machine Learning with Python of freeCodeCamp.
+This repository includes all the projects required to complete the Machine Learning with Python certificate from freeCodeCamp.
 
-It is a devcontainer so you can clone it in you machine or open it as Codespace and everything should work just fine.
+It’s set up as a devcontainer, so you can either clone it to your machine or open it as a Codespace, and everything should work seamlessly.
